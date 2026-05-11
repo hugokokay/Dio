@@ -1,0 +1,42 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Arquitetura" id="avwtVgFVLUu1v9u9QGtK">
+    <mxGraphModel dx="1030" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CQczMOCkCQjSyju-ql5L-12" edge="1" parent="1" source="CQczMOCkCQjSyju-ql5L-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;flowAnimation=1;" target="CQczMOCkCQjSyju-ql5L-8" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="293" />
+              <mxPoint x="120" y="293" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-2" parent="1" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.authenticated_user;" value="Usuário" vertex="1">
+          <mxGeometry height="48" width="48" x="30" y="268.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-4" parent="1" style="rounded=1;arcSize=10;dashed=0;fillColor=none;gradientColor=none;strokeWidth=2;" value="" vertex="1">
+          <mxGeometry height="440" width="470" x="240" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-5" parent="1" style="dashed=0;html=1;shape=mxgraph.aws3.cloud;fillColor=#F58536;gradientColor=none;dashed=0;" value="" vertex="1">
+          <mxGeometry height="36" width="52" x="290" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-15" edge="1" parent="1" source="CQczMOCkCQjSyju-ql5L-8" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;flowAnimation=1;" target="CQczMOCkCQjSyju-ql5L-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-8" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.management_console;fillColor=#F58534;gradientColor=none;" value="Estação&amp;nbsp;&lt;div&gt;de&lt;/div&gt;&lt;div&gt;Trabalho&lt;/div&gt;" vertex="1">
+          <mxGeometry height="43" width="43" x="150" y="271" as="geometry" />
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-17" edge="1" parent="1" source="CQczMOCkCQjSyju-ql5L-13" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" target="CQczMOCkCQjSyju-ql5L-16" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-13" parent="1" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;strokeColor2=#292929;" value="EC2" vertex="1">
+          <mxGeometry height="44" width="43.65" x="300" y="270.5" as="geometry" />
+        </mxCell>
+        <mxCell id="CQczMOCkCQjSyju-ql5L-16" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.volume;fillColor=#E05243;gradientColor=none;" value="EBS" vertex="1">
+          <mxGeometry height="45" width="31.5" x="414" y="269.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

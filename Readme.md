@@ -8,35 +8,30 @@ Este repositório contém os desafios e projetos desenvolvidos no bootcamp **GFT
 
 Aprender os fundamentos essenciais de cloud computing e Amazon Web Services (AWS), desenvolvendo habilidades práticas através de desafios e projetos hands-on.
 
+
 ## 📁 Estrutura do Repositório
 
-Os desafios estão organizados em pastas temáticas, cada uma contendo exercícios e projetos específicos:
+Todo o conteúdo do bootcamp está organizado diretamente neste repositório, sem subdivisão em pastas de desafios. Os arquivos e documentações estão disponíveis na raiz, facilitando o acesso e a navegação.
 
-```
-├── Desafio-01/          # Introdução aos Conceitos de Cloud
-├── Desafio-02/          # Serviços Básicos da AWS
-├── Desafio-03/          # EC2 e Compute
-├── Desafio-04/          # Armazenamento (S3)
-├── Desafio-05/          # Banco de Dados
-└── ...
-```
 
 ## 🚀 Como Usar
 
-1. Acesse a pasta do desafio que deseja trabalhar
-2. Leia as instruções específicas de cada desafio
-3. Implemente a solução conforme solicitado
-4. Teste sua solução antes de confirmar
+1. Navegue pelos arquivos do repositório
+2. Leia as instruções e documentações disponíveis
+3. Implemente as soluções conforme solicitado
+4. Teste suas soluções antes de confirmar
+
 
 ## 🛠️ Tecnologias Utilizadas
 
 - **AWS** - Amazon Web Services
 - **Cloud Computing** - Conceitos e Práticas
-- Linguagens e ferramentas específicas de cada desafio
+- Linguagens e ferramentas específicas de cada atividade
 
-## 📝 Desafios
 
-Cada desafio possui seu próprio README com instruções detalhadas e requisitos específicos.
+## 📝 Atividades
+
+Cada atividade ou projeto possui sua própria documentação e instruções detalhadas neste repositório.
 
 ## 👤 Autor
 

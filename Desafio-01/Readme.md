@@ -2,7 +2,7 @@
 
 ## 📖 Entendendo o Desafio
 
-Chegou a hora de brilhar! Neste desafio, vou colocar em prática tudo aquilo que aprendi até aqui nas aulas. Estou explorando todos os conceitos abordados, aplicando meus conhecimentos em um ambiente prático e documentando minha experiência de forma clara e estruturada.
+Vou colocar em prática tudo aquilo que aprendi até aqui nas aulas. Estou explorando todos os conceitos abordados, aplicando meus conhecimentos em um ambiente prático e documentando minha experiência de forma clara e estruturada.
 
 O meu objetivo é demonstrar minha compreensão dos temas discutidos, criando um material que sirva não apenas como comprovação do meu aprendizado, mas também como referência para meus estudos futuros e implementações em projetos reais.
 
